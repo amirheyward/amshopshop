@@ -1,3 +1,5 @@
 layout: page
 title: "HOME-PAGE"
 permalink: /amshopshop/home
+
+# Home Page
