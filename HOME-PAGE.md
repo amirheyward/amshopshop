@@ -1,5 +1,5 @@
 layout: page
 title: "HOME-PAGE"
-permalink: /amshopshop/home
+permalink: /amshopshop/home/
 
 # Home Page
